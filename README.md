@@ -1,5 +1,5 @@
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
 
 
 
