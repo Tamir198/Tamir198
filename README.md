@@ -1,5 +1,13 @@
-### Hi there 👋
 
+📫 You can connect with me via:
+via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
+
+
+
+<!--
+**Tamir198/Tamir198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,11 +16,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!--
-**Tamir198/Tamir198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 -->
