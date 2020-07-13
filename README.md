@@ -1,6 +1,6 @@
 You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
 
-Check this cool project : [hacktoberfest](https://hacktoberfest.digitalocean.com/)
+If you love open source check [hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
 
