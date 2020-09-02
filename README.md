@@ -2,7 +2,7 @@
 You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
 
 
-If you love to help and contribute to open source (or even you just want to start and dont know how) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
+If you love to help and contribute to open source (or even if you just want to start and dont know where to begin) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
  **"Open source is changing the world - one pull request at a time"**.
 
 
