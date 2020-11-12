@@ -16,7 +16,7 @@ I have [an app in google play](https://play.google.com/store/apps/details?id=com
 <!--
 **Tamir198/Tamir198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-// ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tamir198&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tamir198&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 🔭 I’m currently working on ...
