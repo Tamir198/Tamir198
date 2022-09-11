@@ -1,5 +1,6 @@
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/) and [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul)
+You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/).
+Check my [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul) account.
 
 
 If you love to help and contribute to open source (or even if you just want to start and dont know where to begin) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
