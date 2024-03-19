@@ -3,6 +3,8 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695
 Check my [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul) account.
 <!-- I am also using [GitLab](https://gitlab.com/Tamir198) -->
 
+# Open Source is cool: 
+
 Working on different open source projects, right now mainly working on [maakaf-website](https://github.com/Maakaf/maakaf-website)
 
 
