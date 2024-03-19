@@ -1,12 +1,12 @@
 ## Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 
-My name is Tamir. 
-I love contributing to open source and being a part of the Stack Overflow community.
-Currently, I am swimming in the ocean of web development and enjoying every moment.
+My name is Tamir. <br>
+I love contributing to open source and being a part of the Stack Overflow community. <br>
+Currently, I am swimming in the ocean of web development and enjoying every moment. <br>
 <!-- I am also using [GitLab](https://gitlab.com/Tamir198) -->
 ---
 
-# Open Source is cool: 
+## Open Source is cool: 
 
 <img src="https://github.com/Tamir198/Tamir198/assets/34707669/199db2ba-40a9-4930-b528-e42012048326" width="1100" height="350">
 
