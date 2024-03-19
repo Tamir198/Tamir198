@@ -1,10 +1,12 @@
 
 You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/).
 Check my [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul) account.
-I am also using [GitLab](https://gitlab.com/Tamir198)
+<!-- I am also using [GitLab](https://gitlab.com/Tamir198) -->
+
+Working on different open source projects, right now mainly working on [maakaf-website](https://github.com/Maakaf/maakaf-website)
 
 
-If you love to help and contribute to open source (or even if you just want to start and don't know where to begin) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
+If you love to help and contribute to open source (or even if you want to start and don't know where to begin) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
  **"Open source is changing the world - one pull request at a time"**.
  
 
