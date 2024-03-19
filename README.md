@@ -9,9 +9,9 @@ If you love to help and contribute to open source (or even if you just want to s
  
 
 
-
+<!--
 I have [an app in google play](https://play.google.com/store/apps/details?id=com.question_app.shim_polak.quest_tion) made with [Shimshon Polak](https://github.com/Shimshon21)  together as a fun side project.
-
+-->
 
 
 
