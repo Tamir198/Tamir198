@@ -39,10 +39,19 @@ I work with :
 
 <br><br>
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/tamir-abutbul-10a695178/).
-Check my [stackoverflow](https://stackoverflow.com/users/8274756/tamir-abutbul) account.
 
+## Scoials :
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![StackOverflow][stackoverflow-shield]][stackoverflow-url]
+
+<!-- Shields -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn--blue?style=social&logo=LinkedIn
+[stackoverflow-shield]: https://img.shields.io/badge/StackOverflow--fe7a16?style=social&logo=stack-overflow
+
+<!-- URLs -->
+[linkedin-url]: https://www.linkedin.com/in/tamir-abutbul-10a695178/
+[stackoverflow-url]: https://stackoverflow.com/users/8274756/tamir-abutbul
 <!--
 I have [an app in google play](https://play.google.com/store/apps/details?id=com.question_app.shim_polak.quest_tion) made with [Shimshon Polak](https://github.com/Shimshon21)  together as a fun side project.
 -->
