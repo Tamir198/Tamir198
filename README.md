@@ -15,7 +15,7 @@ Currently, I am swimming in the ocean of web development and enjoying every mome
 Working on different open source projects, right now mainly working on [maakaf-website](https://github.com/Maakaf/maakaf-website)
 
 
-If you love to help and contribute to open source (or even if you want to start and don't know where to begin) check [hacktoberfest](https://hacktoberfest.digitalocean.com/).<br>
+I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/) as well.<br>
  **"Open source is changing the world - one pull request at a time"**.
  
 ---
