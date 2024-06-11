@@ -38,7 +38,6 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
     <!-- if you want more icons just add params in here   -->
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,styledcomponents,tailwind,docker,figma,express,html,css"  style="margin: 5px;">
  
-dcomponents
 </div>
 
 
