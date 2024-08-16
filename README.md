@@ -1,4 +1,3 @@
-## Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 
 My name is Tamir. <br>
 I love contributing to open source and being a part of the Stack Overflow community. <br>
