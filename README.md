@@ -35,7 +35,7 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
 <!--     <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50" style="margin: 5px;"> -->
 <!--     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" style="margin: 5px;"> -->
     <!-- if you want more icons just add params in here   -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,styledcomponents,tailwind,docker,figma,nodejs,express,html,css"  style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,nest,styledcomponents,tailwind,docker,figma,nodejs,express,html,css"  style="margin: 5px;">
  
 </div>
 
