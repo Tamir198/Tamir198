@@ -2,7 +2,7 @@
 My name is Tamir. <br>
 I love contributing to open source and being a part of the Stack Overflow community. <br>
 Currently, I am swimming in the ocean of web development and enjoying every moment. <br><br>
-Also, a manager in [ColmanDevClub[](https://www.linkedin.com/company/colman-devclub/?viewAsMember=true](https://www.linkedin.com/company/colman-devclub/?viewAsMember=true)) in my free time.
+Also, a manager in [ColmanDevClub](https://www.linkedin.com/company/colman-devclub/?viewAsMember=true](https://www.linkedin.com/company/colman-devclub/?viewAsMember=true)) in my free time.
 
 <!-- I am also using [GitLab](https://gitlab.com/Tamir198) -->
 ---
