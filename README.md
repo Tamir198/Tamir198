@@ -7,6 +7,7 @@ Also, a manager in [ColmanDevClub](https://www.linkedin.com/company/colman-devcl
 <!-- I am also using [GitLab](https://gitlab.com/Tamir198) -->
 ---
 
+
 ## Open Source is cool: 
 
 <img src="https://github.com/Tamir198/Tamir198/assets/34707669/199db2ba-40a9-4930-b528-e42012048326" width="1100" height="350">
@@ -19,6 +20,16 @@ Working on different open source projects, right now mainly working on [maakaf-w
 I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/) as well.<br>
  **"Open source is changing the world - one pull request at a time"**.
  
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BansalAbhinav/BansalAbhinav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BansalAbhinav/BansalAbhinav/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BansalAbhinav/BansalAbhinav/output/github-snake.svg" />
+</picture
+
+
 ---
 
 ## Tech Stack
