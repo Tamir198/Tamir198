@@ -27,7 +27,7 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamir198/Tarmi198/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamir198/Tamir198/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BansalAbhinav/BansalAbhinav/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tamir198/Tamir198/output/github-snake.svg" />
 </picture
 
 
