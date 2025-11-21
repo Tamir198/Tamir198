@@ -24,6 +24,9 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
  
 ---
 
+<!--<img width="731" height="731" alt="image" src="https://github.com/user-attachments/assets/aeb238e7-0d13-4295-bffa-ccd7f5b70b42" />-->
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamir198/Tarmi198/output/github-snake-dark.svg" />
