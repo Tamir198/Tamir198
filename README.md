@@ -10,7 +10,8 @@ Also, a manager in [ColmanDevClub](https://www.linkedin.com/company/colman-devcl
 
 
 ## Open Source is cool and can create many amazing ideas: 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/37bf95f2-2a28-4961-bc94-1bc987360187" />
+<!-- <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/37bf95f2-2a28-4961-bc94-1bc987360187" /> -->
+<img width="3168" height="1344" alt="Gemini_Generated_Image_vaiwlovaiwlovaiw" src="https://github.com/user-attachments/assets/4624c378-fa1e-4a77-9b03-de80fecec174" />
 
 <!-- <img src="https://github.com/Tamir198/Tamir198/assets/34707669/199db2ba-40a9-4930-b528-e42012048326" width="1100" height="350"> -->
 
