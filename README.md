@@ -23,7 +23,6 @@ Working on different open source projects, right now mainly working on [maakaf-w
 I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/) as well.<br>
  **"Open source is changing the world - one pull request at a time"**.
  
----
 
 <!--<img width="731" height="731" alt="image" src="https://github.com/user-attachments/assets/aeb238e7-0d13-4295-bffa-ccd7f5b70b42" />-->
 
@@ -55,10 +54,6 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,nest,styledcomponents,tailwind,docker,figma,nodejs,express,html,css"  style="margin: 5px;">
  
 </div>
-
-
-<br><br>
-
 
 ## Scoials :
 
