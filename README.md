@@ -55,7 +55,7 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
  
 </div>
 
-## Scoials :
+## socials :
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
