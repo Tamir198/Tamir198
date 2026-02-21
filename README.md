@@ -16,8 +16,7 @@ Also, a manager in [ColmanDevClub](https://www.linkedin.com/company/colman-devcl
 <!-- <img src="https://github.com/Tamir198/Tamir198/assets/34707669/199db2ba-40a9-4930-b528-e42012048326" width="1100" height="350"> -->
 
 
-
-Working on different open source projects, right now mainly working on [maakaf-website](https://github.com/Maakaf/maakaf-website) and [TheCyberHUB](https://github.com/thecyberworld/TheCyberHUB).
+<!--Working on different open source projects, right now mainly working on [maakaf-website](https://github.com/Maakaf/maakaf-website) and [TheCyberHUB](https://github.com/thecyberworld/TheCyberHUB).-->
 
 
 I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/) as well.<br>
@@ -49,7 +48,7 @@ I love to participate in [hacktoberfest](https://hacktoberfest.digitalocean.com/
 <!--     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" style="margin: 5px;"> -->
 <!--     <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" style="margin: 5px;"> -->
 <!--     <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" style="margin: 5px;"> -->
+    <!-- <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" style="margin: 5px;"> -->
     <!-- if you want more icons just add params in here   -->
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,nest,styledcomponents,tailwind,docker,figma,nodejs,express,html,css"  style="margin: 5px;">
  
